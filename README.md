@@ -23,8 +23,8 @@ it should look like this
 <img align="Left" width="474" height="650" src="https://files.catbox.moe/pusvrb.png">
 
 > [!IMPORTANT]
-> Some older Motherboards will be set to "LEGACY" Mode, to check if you have LEGACY or UEFI
-> open windows search, type msinfo and find the Line "BIOS Mode"
+> Some older Motherboards will be set to "LEGACY" Mode.
+> open windows search, type msinfo and find the Line "BIOS Mode" It's either UEFI or Legacy
 
 ><- Select the ISO
 1. Reboot into BIOS
