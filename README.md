@@ -19,6 +19,7 @@ It's primarily used in bigger companies (as the name suggests) which rely on it'
 ### Windows Setup. 
 Flash the ISO onto the USB Drive using Rufus,
 it should look like this ->
+
 <img align="Right" width="474" height="650" src="https://files.catbox.moe/pusvrb.png">
 
 > [!IMPORTANT]
