@@ -38,6 +38,7 @@ it should look like this ->
 Use MAS Tool from the Download or copy-paste the 
 following text into
 Powershell. 
+
 ``irm https://massgrave.dev/get | iex``
 
 Once opened, Select "1". It should be
