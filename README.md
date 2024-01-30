@@ -13,7 +13,7 @@ It's primarily used in bigger companies (as the name suggests) which rely on it'
 
 - [Rufus](https://rufus.ie/en/)
 - [USB 8gb+](https://amzn.eu/d/483SMH7)
-- [Windows10Enterprise ISO](https://cdn.discordapp.com/attachments/947877778798293054/1201601031352615022/Windows_10_Enterprise_2021_LTSC_with_Update_19044.3803_AIO_x86-x64_by_adguard_v23.12.12_en-ru.torrent?ex=65ca692a&is=65b7f42a&hm=e63ab1ca919dfd838f2d5e7ddf62b3bfd4c6a97f5bd7b471c59d708832bbdcef&)
+- [Windows10Enterprise ISO](https://rentry.co/notwindows)
 - [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip) (Microsoft Activation Tool)
 
 ### Windows Setup. 
