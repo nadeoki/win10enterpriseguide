@@ -1,5 +1,5 @@
 # Windows 10 Enterprise LTSC Install Guide
-<img align="right" width="300" height="300" src="[https://picsum.photos/100/100](https://files.catbox.moe/dutpxu.webp)">
+<img align="right" width="300" height="300" src="https://files.catbox.moe/dutpxu.webp">
 
 > A guide to installing Windows 10 Enterprise on a Boot Drive
 
