@@ -32,7 +32,7 @@ it should look like this ->
 4. Disconnect your Ethernet Cable from the Device
 5. Set Up Windows like Normal
 6. *DO NOT* enter Wifi Info, choose limited Setup without Internet and make a Local Account
-
+7. Select the IoT version, as it receives updates until January, 2032
 ### Activate License
 
 Use MAS Tool from the Download or copy-paste the 
