@@ -39,7 +39,7 @@ Use MAS Tool from the Download or copy-paste the
 following text into
 Powershell. 
 
-``irm https://massgrave.dev/get | iex``
+``irm https://get.activated.win/get | iex``
 
 Once opened, Select "1". It should be
 activating Windows License for Windows Enterprise.
